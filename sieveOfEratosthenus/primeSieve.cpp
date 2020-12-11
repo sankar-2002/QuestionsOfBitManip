@@ -1,5 +1,5 @@
 #include <iostream>  //some changes for git..
-using namespace std;
+using namespace std; //second git change..
 
 void prime(int n) {
     int prime[n+1]={0};  //array which is initialized with zeros...
